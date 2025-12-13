@@ -1,0 +1,3 @@
+[submodule "SPARC"]
+	path = SPARC
+	url = https://github.com/nishchaypagarani/SPARC.git
